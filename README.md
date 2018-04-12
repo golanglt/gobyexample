@@ -1,4 +1,4 @@
-[Readme in Lithuania (Lietuviskai)](https://github.com/golanglt/gobyexample-lt/blob/master/README-lt.md)
+[Readme in Lithuanian (Lietuviskai)](https://github.com/golanglt/gobyexample-lt/blob/master/README-lt.md)
 
 ## Go by Example - lt (gobyexample.lt)
 
